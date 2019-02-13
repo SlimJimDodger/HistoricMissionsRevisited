@@ -4,5 +4,5 @@
     "$kref"        : "#/ckan/github/SlimJimDodger/HistoricMissionsRevisited",
     "license"      : "Unlicense",
 	"abstract" : "A new take on some historic mission packs, updated as I go. Plays well with others. Requires MM and CRAP",
-	 "depends": [{ "name": "ModuleManager" }, { "name" : "Community Real Agency Pack" }, { "name" : "ContractConfigurator" }]
+	 "depends": [{ "name": "ModuleManager" }, { "name" : "Community Real Agency Pack" }, { "name" : "ContractConfigurator" }, { "name" : "RemoteTech" }]
 }
